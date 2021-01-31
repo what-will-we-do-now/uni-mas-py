@@ -169,6 +169,8 @@ class Client:
     def setRecvTimeout(self, timeout):
         """
         This function will send receiving timeout for all recv after this function call.
+        Note: This function should be called after `connect`, otherwise this function will
+        not take any effect.
 
         Parameters
         ----------

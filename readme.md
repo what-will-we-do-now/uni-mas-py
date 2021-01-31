@@ -1,4 +1,4 @@
-## unimas.py
+## UNI-MAS-PY
 
 This repository is a port of [what-will-we-do-now/uni-mas](https://github.com/what-will-we-do-now/uni-mas) for Python.
 
